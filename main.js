@@ -1,6 +1,6 @@
 const DiscordRPC = require('discord-rpc');
 const profile = require('./profile.json')
-const ClientId = '387458498771812363';
+const ClientId = '318923640265637901';
 
 const rpc = new DiscordRPC.Client({ transport: 'ipc' });
 const startTimestamp = new Date();
